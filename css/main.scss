@@ -79,4 +79,9 @@ ul.posts li {
     list-style: none;
 }
 
-// @import "minima";
+img[alt="Me"] {
+    max-width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
