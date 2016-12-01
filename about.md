@@ -23,3 +23,5 @@ My interests have shifted a lot over the last few years--there are often more th
 - Vegetarian cooking
 - Statistics
 - US politics
+
+Feel free to shoot me a note or reach out over [**LinkedIn**](https://www.linkedin.com/in/david-winer-58223428) if you'd like to get in touch. 
