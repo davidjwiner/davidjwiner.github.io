@@ -45,7 +45,7 @@ There's a definite increase during the fall, and just my luck, **my bike theft m
 Discussion
 ----------
 
-I did have to wonder, why do we see this huge uptick? It seems unlikely that suddenly the bike you (yes you) currently own is more susceptible to theft in September and October. Here are a couple of ideas I had:
+I did have to wonder, why do we see this huge uptick? It seems unlikely that suddenly the bike you (individually) own is more susceptible to theft in September and October. Here are a couple of ideas I had:
 
 - **There are more bikes on the road in the fall**: This is possible. I'm sure, like me, there are many folks living on the September to September rent cycle who move to the Bay Area in the fall and buy bikes around then. You have to wonder, though, what happens to those people in the winter/spring? Do they stop riding their bikes? Remember, this isn't New England---people aren't hibernating from December--May.
 - **There are more *new* bikes on the road in the fall**: Now this is very possible, especially if you believe the September-September rent cycle point above. Case in point: yours truly. Those bikes may be more attractive to bike thieves because they are easier to sell on the secondary market. 
