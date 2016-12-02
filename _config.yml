@@ -24,6 +24,8 @@ github_username:  davidjwiner
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
 permalink: /blog/:year/:month/:day/:title
 theme: minima
 
