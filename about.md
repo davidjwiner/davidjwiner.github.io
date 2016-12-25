@@ -16,6 +16,7 @@ Prior to coming to Berkeley, I worked in management consulting at [**Bain**](htt
 My interests have shifted a lot over the last few years---there is often more I would like to learn about or work on than I have time to---but here are some of the things that I have found myself thinking about a lot recently:
 
 - Machine learning and AI
+- The gig economy
 - K-12 math education
 - Databases
 - Intellectual property and patent invalidation
