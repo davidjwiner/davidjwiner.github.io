@@ -13,17 +13,17 @@ I recently ate out with an omnivore friend of mine who asked me before we ordere
 
 My decision to be vegetarian is rooted in my personal system of ethics: I refrain from eating meat since doing so substantially limits my carbon footprint. The effects of this decision have been better documented by other, more knowledgeable people, so I'll list just a couple of quick facts:
 
-- Livestock farming is the one of---if not the single---[most significant sources of greenhouse gas emissions](http://www.nybooks.com/articles/2016/05/12/humane-economy-open-the-cages/#fnr-7), ahead of the entire transportation industry
-- [80% of deforestation in the Amazon](https://www.scientificamerican.com/article/meat-and-environment/) is directly linked to livestock production
+- Livestock farming is the one of---if not the single---[most significant source of greenhouse gas emissions](http://www.nybooks.com/articles/2016/05/12/humane-economy-open-the-cages/#fnr-7), ahead of the entire transportation industry
+- [80% of deforestation in the Amazon rainforest](https://www.scientificamerican.com/article/meat-and-environment/) is directly linked to livestock production
 - A single factory farm can produce the same amount of waste [as a small city](https://www.scientificamerican.com/article/meat-and-environment/)
 
- Clearly, I think I've made a choice that I believe to be correct by my own personal sense of morality. My friend's question made me wonder, though, do I have have an obligation to proselytize that choice?
+ Unsurprisingly, I've made a choice that I believe to be correct by my own personal sense of morality. My friend's question made me wonder, though, do I have have an obligation to proselytize that choice?
 
 An analogy
 ----------
 There's a great hypothetical scenario in practical ethics called the drowning child problem. I'm likely going to butcher it, but here goes:
 <div class="scenario"><p>
-	Imagine you are walking by a river on a hot summer day and see a small child, perhaps only two or three years old, struggling to stay afloat. He is by himself and calling out for help. You could swim out into the water and him from drowning but are wearing your favorite pair of leather pants (it's beyond me why you chose to wear leather pants on a hot summer day, but that was your decision, not mine). Wading into the water to save the child would almost certainly ruin them. So what choice do you make: do you save the child or your pants?
+	Imagine you are walking by a river on a hot summer day and see a small child, perhaps only two or three years old, struggling to stay afloat. He is by himself and calling out for help. You could swim out into the water and save him from drowning but are wearing your favorite pair of leather pants (it's beyond me why you chose to wear leather pants on a hot summer day, but that was your decision, not mine). Wading into the water to save the child would almost certainly ruin them. So what choice do you make: do you save the child or your pants?
 </p></div>
 Most people respond to this problem with an enthusiastic, "save the child!" Now, the application of this analogy to vegetarianism is somewhat controversial. What vegetarians would say is that, (1) many people are already suffering (and many more will) as a result of climate change and (2) choosing not to eat meat is a mild inconvenience but not a huge sacrifice---perhaps on par with ruining your favorite pair of pants. (Note: thanks to Peter Singer for these arguments.) 
 
@@ -32,7 +32,7 @@ Still, many reasonable people disagree that they are directly responsible for (1
 Now let's propose a modification to the original problem:
 
 <div class="scenario"><p>
-	Suppose you are not yourself next to the river wearing the leather pants. Instead, it it is your friend who happens to be on the phone with you when he sees the child drowning. He describes the scenario to you and tells you he's thinking of letting the child drown since he <i>really</i> likes those leather pants and it's not like he knows the child. Why is it his responsibility? The question is then: do you have an obligation to at least try to persuade your friend otherwise? To change his mind, ruin the pants, and save the child? To act in line with your system of ethics instead of his? 
+	Suppose you are not yourself next to the river wearing the leather pants. Instead, it is your friend who happens to be on the phone with you when he sees the child drowning. He describes the scenario to you and tells you he's thinking of letting the child drown since he <i>really</i> likes those leather pants and it's not like he knows the child. Why is it his responsibility? The question is then: do you have an obligation to at least try to persuade your friend otherwise? To change his mind, ruin the pants, and save the child?
 </p></div>
 
 I think the answer is clearly yes.
@@ -47,13 +47,12 @@ I often hear people speak about the somewhat vague notion of social capital, but
 
  I'd suggest that maintaining your ethical capital matters because it allows you to provide influence when it really matters. I think a lot of young progressives realized this during the 2016 presidential election: they went to work on their friends and family---often painfully straining their personal relationships---in an attempt to prevent Trump from being elected. It unfortunately did not work, but I believe that a similar lens can be applied to many different types of choices.
 
-It is this lens that I have started to apply to my own ethical choices, and specifically my vegetarianism. I used to think that it was not my place to tell others what food choices they should make. After all, these are some of the most personal decisions people make, and they are often deeply influenced by one's upbringing and culture. Still, it's hard to think of another major life decision I've made that I so completely believe in. I hope to start engaging on this topic more with friends and family. As many have argued that it is unjust to die wealthy, I would contend that it is also unjust to die rich in ethical capital. Perhaps choosing a concentrated area of advocacy---in my case, nudging others towards more environmentally friendly food choices---is a way to avoid that fate. 
+Back to vegetarianism. I used to think that it was not my place to tell others what food choices they should make. After all, these are some of the most personal decisions people make, and they are often deeply influenced by one's upbringing and culture. Still, it's hard to think of another major life decision I've made that I so completely believe in. I hope to start engaging on this topic more with friends and family. As many have argued that it is unjust to die wealthy, I would contend that it is also unjust to die rich in ethical capital. Perhaps choosing a concentrated area of advocacy---in my case, making environmentally friendly food choices---is a way to avoid that fate. 
 
-And that might not even mean asking others to consider foregoing meat entirely. I recently found a handy chart from this organization called the [Environmental Working Group](http://www.ewg.org/meateatersguide/a-meat-eaters-guide-to-climate-change-health-what-you-eat-matters/climate-and-environmental-impacts/) that shows the environmental impact of eating different kinds of meat. Evidently, even just cutting out red meat or only eating fish can still have a substantial impact:
+And that might not even mean asking others to consider foregoing meat entirely. I recently stumbled upon a handy chart from this organization called the [Environmental Working Group](http://www.ewg.org/meateatersguide/a-meat-eaters-guide-to-climate-change-health-what-you-eat-matters/climate-and-environmental-impacts/) that shows the environmental impact of eating different kinds of meat. Evidently, even just cutting out red meat or only eating fish can still have a substantial impact:
 
 ![meat-chart](http://static.ewg.org/reports/2011/meateaters/images/green_house_proteins.jpg)
 
-Impressive! I'm still thinking about the best way to be a practical advocate for this cause in my day-to-day life but here are my two biggest takeaways from the research I did while writing this post:
-
-- There's a significant impact that _individual_ people can have by making even small changes in their diets (e.g., giving up red meat, eating meat only certain days of the week)
-- There are ways to raise these sorts of ethical conversations with your friends and family in a way that won't alienate them---the trick is to be thoughtful about which conversations you want to have and go into them with a relatively open mind
+Conclusion
+----------
+I'm still thinking about the best way to be a practical advocate for this cause in my day-to-day life. Clearly, there's a significant impact that _individual_ people can have by making even small changes in their diets (e.g., giving up red meat, eating meat only certain days of the week). But more importantly, I've realized that deciding where we deploy our ethical capital is itself an ethical choice. As for myself, I'm becoming more convinced that food choices is the right area. If you feel differently, for which causes do you advocate most vigorously with your friends and family? Why? I'd love to hear from you!
