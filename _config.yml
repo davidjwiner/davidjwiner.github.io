@@ -24,10 +24,10 @@ github_username:  davidjwiner
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
 kramdown:
   input: GFM
-  # hard_wrap: false
+  syntax_highlighter: rouge
+highlighter: rouge
 permalink: /blog/:year/:month/:day/:title
 theme: minima
 
