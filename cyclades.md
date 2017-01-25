@@ -5,7 +5,6 @@ permalink: /cs267-cyclades
 ---
 
 # CS267 HW0: <span class="sc">Cyclades</span>
-## David Winer
  
 # Personal bio
 
