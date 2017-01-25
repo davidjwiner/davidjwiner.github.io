@@ -22,4 +22,4 @@ My interests have shifted a lot over the last few years---there is often more I 
 - Statistics
 - US politics
 
-Feel free to shoot me a note or reach out over [**LinkedIn**](https://www.linkedin.com/in/david-winer-58223428) if you'd like to get in touch. 
+Find more detail on my work and academic experience in my **[resume](/resume)**. Feel free to shoot me a note or reach out over [**LinkedIn**](https://www.linkedin.com/in/david-winer-58223428) if you'd like to get in touch. 
