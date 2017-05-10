@@ -26,6 +26,9 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+// Standard text variables
+$standard-text: 1.2em;
+
 // Minima also includes a mixin for defining media queries.
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -65,7 +68,7 @@ h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
+    font-size: $standard-text;
     line-height: 1.4em;
     color: #333;
 }
@@ -79,12 +82,12 @@ footer {
 }
 
 ul {
-    font-size: 1.5em;
+    font-size: $standard-text;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: $standard-text;
 }
 
 ul.posts li {
@@ -105,7 +108,7 @@ img[alt="cannondale"] {
     max-width: 400px;
 }
 div.MathJax_Display {
-    font-size: 1.5em;
+    font-size: $standard-text;
 }
 div.scenario {
     background-color: aliceblue;
