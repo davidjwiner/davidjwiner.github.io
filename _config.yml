@@ -31,6 +31,8 @@ highlighter: rouge
 permalink: /blog/:year/:month/:day/:title
 theme: minima
 encoding: utf-8
+gems:
+  - jemoji
 
 # defaults:
 #   -

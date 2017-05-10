@@ -67,6 +67,9 @@ h2 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+h3 {
+    font-size: $standard-text;
+}
 p {
     font-size: $standard-text;
     line-height: 1.4em;
@@ -119,4 +122,7 @@ div.scenario {
 }
 span.sc {
     font-variant: small-caps;
+}
+.emoji {
+    display: inline;
 }
