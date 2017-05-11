@@ -1,15 +1,13 @@
 ---
-layout: default
+layout: posts
 title:  "Meditations on p"
 date:   2016-12-02 00:00:00 -0700
 ---
+A few weeks ago, I was thinking about regression models and started to wonder how significance testing is applied to ordinary least squares (OLS) regression. I started to do a little bit of poking around and realized that there wasn't really a good resource that explained, from first principles, how we get from the classic OLS problem to test statistics, p-values, etc. <!--more-->
 
-Meditations on p
-================
+I learn best by writing, which sparked in me the idea to write a post that walks through (most of) the derivation for the p-value in OLS regression. It ended up being a little bit more in depth and mathier than I was expecting. For those of you who are more inclined toward web comics than blog posts, you may find [this xkcd link](http://xkcd.com/882/) more illuminating and amusing.
 
-_A few weeks ago, I was thinking about regression models and started to wonder how significance testing is applied to ordinary least squares (OLS) regression. I started to do a little bit of poking around and realized that there wasn't really a good resource that explained, from first principles, how we get from the classic OLS problem to test statistics, p-values,  etc._
-
-_I learn best by writing, which sparked in me the idea to write a post that walks through (most of) the derivation for the p-value in OLS regression. It ended up being a little bit more in depth and mathier than I was expecting. For those of you who are more inclined toward web comics than blog posts, you may find [this xkcd link](http://xkcd.com/882/) more illuminating and amusing._
+<!--more-->
 
 Motivating example
 ------------------

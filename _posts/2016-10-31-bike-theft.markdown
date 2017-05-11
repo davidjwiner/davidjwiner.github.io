@@ -1,17 +1,10 @@
 ---
-layout: default
+layout: posts
 title:  "Bike theft"
 date:   2016-10-31 10:44:57 -0700
 ---
-
-Bike theft
-==========
-
 ![cannondale](/assets/bike_theft/cannondale.jpg)
 <p class="caption">My old friend</p>
-
-Motivation
-----------
 
 I live in Berkeley, California, which is known for at least three things:
 
@@ -19,7 +12,8 @@ I live in Berkeley, California, which is known for at least three things:
 - Vegetarian food
 - Liberalism
 
-I'll tackle the first of these topics today; the other two deserve [(several)](http://patch.com/california/berkeley/newly-sworn-mayor-vows-make-berkeley-even-more-liberal) [longer](http://www.dailycal.org/2016/03/18/uc-berkeley-liberalism-now/) [posts](http://www.vegan.com/berkeley/). When I moved out to Berkeley, I bought a trusty Cannondale Quick 7 bike from the good people at [Huckleberry Bikes](http://www.huckleberrybicycles.com/).
+
+I'll tackle the first of these topics today; the other two deserve [(several)](http://patch.com/california/berkeley/newly-sworn-mayor-vows-make-berkeley-even-more-liberal) [longer](http://www.dailycal.org/2016/03/18/uc-berkeley-liberalism-now/) [posts](http://www.vegan.com/berkeley/). <!--more--> When I moved out to Berkeley, I bought a trusty Cannondale Quick 7 bike from the good people at [Huckleberry Bikes](http://www.huckleberrybicycles.com/).
 
 Six weeks later I was bike-less after having made a rookie mistake locking my bike [[1]](#bike-note). It was sad. I may or may not have gone back to the location where I locked my bike multiple times just hoping that it would  magically return. Needless to say, it didn't.
 

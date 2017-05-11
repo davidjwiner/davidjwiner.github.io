@@ -8,7 +8,10 @@ $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
+$h2-font-size: $base-font-size * 1.25;
+$h1-font-size: $base-font-size * 1.75;
 $base-line-height: 1.5;
+$separator-border-bottom: 1px solid #d5d5d5;
 
 $spacing-unit:     30px;
 
@@ -27,7 +30,6 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 // Standard text variables
-$standard-text: 1.2em;
 
 // Minima also includes a mixin for defining media queries.
 // Use media queries like this:
@@ -54,6 +56,10 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
+nav ul li a.active {
+    color:rgba(26, 74, 115, 0.78);
+} 
+
 
 a {
     text-decoration: none;
@@ -64,18 +70,18 @@ a:hover {
     color: rgba(0, 0, 0, 0.7);
 }
 h1 {
-    font-size: 3em;
+    font-size: $h1-font-size;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
-    font-size: 2em;
+    font-size: $h2-font-size;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h3 {
-    font-size: $standard-text;
+    font-size: $base-font-size;
 }
 p {
-    font-size: $standard-text;
+    font-size: $base-font-size;
     line-height: 1.4em;
     color: #333;
 }
@@ -89,16 +95,12 @@ footer {
 }
 
 ul {
-    font-size: $standard-text;
+    font-size: $base-font-size;
 }
 
 ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: $standard-text;
-}
-
-ul.posts li {
-    list-style: none;
+    font-size: $base-font-size;
+    padding: 0px;
 }
 
 img {
@@ -115,7 +117,7 @@ img[alt="cannondale"] {
     max-width: 400px;
 }
 div.MathJax_Display {
-    font-size: $standard-text;
+    font-size: $base-font-size;
 }
 div.scenario {
     background-color: aliceblue;
@@ -139,7 +141,7 @@ span.sc {
 }
 
 .nav-box{
-    border-bottom: 1px solid #d5d5d5;
+    border-bottom: $separator-border-bottom;
     height: 30px;
 }
 .emoji {
@@ -170,4 +172,15 @@ span.sc {
   &:hover {
     text-decoration:none;
   }
+}
+/// Blog post feed
+.post-list-header {
+    font-weight: bold;
+    font-size: $h2-font-size;
+    list-style: none;
+}
+.separator {
+    width: 100%;
+    border-bottom: $separator-border-bottom;
+    margin-bottom: 15px;
 }

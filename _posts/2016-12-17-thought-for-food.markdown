@@ -1,15 +1,11 @@
 ---
-layout: default
-title:  "Thought for food"
+layout: posts
+title:  "Thought for food: Vegetarianism and ethical capital"
 date:   2016-12-17 10:44:57 -0700
 ---
-
-Thought for food: Vegetarianism and ethical capital
-======================================================
-
 <img src="https://s-media-cache-ak0.pinimg.com/originals/7a/0a/1f/7a0a1f9a6f9d2bb805809dd59a1062dc.jpg" width="400">
 
-I recently ate out with an omnivore friend of mine who asked me before we ordered if I was okay with him having steak for dinner. His question took me by surprise because people almost never ask me---in my mind, it was akin to my asking him if I could order noodles. It wasn't my decision to make for him, so I responded, "Of course! Order what you want." That interaction stuck with me, though, because it made me think about what role I have in influencing the choices my friends and family make.
+I recently ate out with an omnivore friend of mine who asked me before we ordered if I was okay with him having steak for dinner. <!--more--> His question took me by surprise because people almost never ask me---in my mind, it was akin to my asking him if I could order noodles.  It wasn't my decision to make for him, so I responded, "Of course! Order what you want." That interaction stuck with me, though, because it made me think about what role I have in influencing the choices my friends and family make.
 
 My decision to be vegetarian is rooted in my personal system of ethics: I refrain from eating meat since doing so substantially limits my carbon footprint. The effects of this decision have been better documented by other, more knowledgeable people, so I'll list just a couple of quick facts:
 

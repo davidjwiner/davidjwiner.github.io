@@ -1,17 +1,13 @@
 ---
-layout: default
+layout: posts
 title:  "Predicting political affiliation"
 date:   2016-12-31 10:44:57 -0700
 ---
 
-# Predicting political affiliation from Twitter metadata ##
-
-## Introduction
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">The electoral college is a disaster for a democracy.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/266038556504494082">November 7, 2012</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I've recently been doing a fair bit of work related to political affiliation and voter prediction for a friend who is starting a political advocacy organization. One thing that's been top of mind for me is __predicting party affiliation__ for voter targeting. For example, can we use Twitter to figure out if folks are Democrats and target them for get-out-the-vote messaging accordingly?
+I've recently been doing some work related to political affiliation and voter prediction for a friend who is starting a political advocacy organization. As a result, one thing that I have been thinking about a lot lately is __predicting party affiliation__ for voter targeting. For example, can we use Twitter to figure out if folks are Democrats and target them for get-out-the-vote messaging accordingly? <!--more--> 
 
 I did a little bit of poking around on the web and found that predicting political affiliation based on Twitter data is a pretty challenging problem that traditionally has been approached in two ways:
 

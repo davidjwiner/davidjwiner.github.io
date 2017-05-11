@@ -11,10 +11,10 @@ permalink: /
 	     </script>
  	{% endfor %}
 	 <a href="" class="typewrite intro-text" data-period="2000" data-type='["Data scientist",
-	 																		"Podcast lover", 
+	 																		"Podcast buff", 
 	 																		"Strategy consultant",
 	 																		"Cilantro hater",
-	 																		"Statistics nerd",
+	 																		"Statistics buff",
 	 																		"Product person",
 	 																		"Runner",
 	 																		"Education policy enthusiast",
