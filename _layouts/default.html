@@ -32,6 +32,8 @@
 		<footer class="site-footer">
       {% include footer.html %}
     </footer>
+    {% if jekyll.environment == 'production' %}
     {% include analytics.html %}
+    {% endif %}
 	</body>
 </html>
