@@ -1,11 +1,8 @@
 ---
 layout: default
 title: About
-permalink: /
+permalink: /about
 ---
-
-About
-=====
 
 ![Me](/assets/David.jpg)
 
