@@ -21,6 +21,7 @@ $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
+$grey-color-med-light: lighten($grey-color, 20%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
@@ -56,11 +57,6 @@ nav ul li, footer ul li {
     margin-right: 20px;
     font-size: $h2-font-size;
 }
-
-nav ul li a.active {
-    color:rgba(26, 74, 115, 0.78);
-} 
-
 
 a {
     text-decoration: none;
@@ -141,13 +137,66 @@ span.sc {
     text-decoration:none;
 }
 
-.nav-box{
-    border-bottom: $separator-border-bottom;
-    height: 30px;
-}
 .emoji {
     display: inline;
 }
+
+//// Nav bar
+
+
+/* Border X get width  */
+div.borderXwidth a:before, div.borderXwidth a:after
+{
+    position: absolute;
+    opacity: 0;
+    width: 0%;
+    height: 2px;
+    content: '';
+    background: $grey-color-light;
+    transition: all 0.3s;
+}
+
+div.borderXwidth a:before
+{
+    left: 0px;
+    top: 0px;
+}
+
+div.borderXwidth a:after
+{
+    right: 0px;
+    bottom: 0px;
+}
+
+div.borderXwidth a:not(.active):hover:before, div.borderXwidth a:not(.active):hover:after
+{
+    opacity: 1;
+    width: 100%;
+}
+
+
+div.container a
+{
+    // color: blue;
+    color: $grey-color-med-light;
+    text-decoration: none;
+    margin: 0px 0px;
+    padding: 10px 10px;
+    position: relative;
+    z-index: 0;
+    cursor: pointer;
+    font-size: $h2-font-size;
+    font-weight: bold;
+    &.active {
+        color: rgba(0, 0, 0, 0.7);
+    }
+}
+
+.nav-box{
+    // border-bottom: $separator-border-bottom;
+    height: 40px;
+}
+
 
 //// Hero photo
 
