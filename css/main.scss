@@ -41,6 +41,7 @@ $standard-text: 1.2em;
 body {
     margin: 60px auto;
     width: 70%;
+    font-family: $base-font-family;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -126,7 +127,15 @@ span.sc {
     font-variant: small-caps;
 }
 
-//// Nav bar and footer
+
+//// Navbar
+
+nav a:hover {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+//// Footer
 
 .fa.big {
     font-size:2em;

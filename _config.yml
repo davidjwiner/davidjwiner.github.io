@@ -34,6 +34,8 @@ theme: minima
 encoding: utf-8
 gems:
   - jemoji
+jsarr:
+     - scripts/typing.js
 
 # defaults:
 #   -
