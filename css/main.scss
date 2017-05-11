@@ -54,6 +54,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    font-size: $h2-font-size;
 }
 
 nav ul li a.active {
@@ -172,8 +173,11 @@ span.sc {
   &:hover {
     text-decoration:none;
   }
+  cursor:default;
 }
+
 /// Blog post feed
+
 .post-list-header {
     font-weight: bold;
     font-size: $h2-font-size;
@@ -183,4 +187,6 @@ span.sc {
     width: 100%;
     border-bottom: $separator-border-bottom;
     margin-bottom: 15px;
+    margin-top: -20px;
+
 }
