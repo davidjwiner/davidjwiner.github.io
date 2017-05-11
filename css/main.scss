@@ -106,7 +106,7 @@ img {
 }
 
 img[alt="Me"] {
-    max-width: 300px;
+    max-width: 250px;
 }
 
 img[alt="cannondale"] {
@@ -125,6 +125,20 @@ div.scenario {
 span.sc {
     font-variant: small-caps;
 }
+
+
+.fa.big {
+    font-size:2em;
+}
+
+.fa:hover {
+    color: rgb(3, 169, 244);
+}
+
+.social-media-list a:hover {
+    text-decoration:none;
+}
+
 .nav-box{
     border-bottom: 1px solid #d5d5d5;
     height: 30px;
