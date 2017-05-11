@@ -60,7 +60,8 @@ a {
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.7);
 }
 h1 {
     font-size: 3em;
@@ -127,22 +128,10 @@ span.sc {
     font-variant: small-caps;
 }
 
-
-//// Navbar
-
-nav a:hover {
-    text-decoration: none;
-    color: rgba(0, 0, 0, 0.7);
-}
-
 //// Footer
 
 .fa.big {
     font-size:2em;
-}
-
-.fa:hover {
-    color: rgb(3, 169, 244);
 }
 
 .social-media-list a:hover {
@@ -180,6 +169,5 @@ nav a:hover {
   padding-top:10em;
   &:hover {
     text-decoration:none;
-
   }
 }
