@@ -17,7 +17,7 @@ permalink: /
 	 																		"Strategy consultant",
 	 																		"Product person",
 	 																		"Runner",
-	 																		"Education policy enthusiast",
+	 																		"Education policy nerd",
 	 																		"Vegetarian", 
 	 																		"Relentless optimist ✌️"]'>
     	<span class="wrap"></span>
