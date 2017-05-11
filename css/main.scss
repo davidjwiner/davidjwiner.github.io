@@ -126,6 +126,7 @@ span.sc {
     font-variant: small-caps;
 }
 
+//// Nav bar and footer
 
 .fa.big {
     font-size:2em;
@@ -146,3 +147,59 @@ span.sc {
 .emoji {
     display: inline;
 }
+
+//// Hero photo
+
+.hero-photo {
+    background-image: url(https://images.unsplash.com/photo-1440658172029-9d9e5cdc127c?dpr=2&auto=format&fit=crop&w=600&h=300&q=80&cs=tinysrgb&crop=&bg=);
+    // background-color:black;
+    line-height: 30em;
+    height: 30em;
+    opacity: 0.9;
+    margin-top: 0.5em;
+    text-align: center;
+
+    // color:#fff;
+}
+
+.intro-text.typewrite {
+  // color:#fff;
+  margin: 0px;
+  width: 100%;
+  font-family: sans-serif;
+  font-size: 2em;
+   // background-color:#ce3635;
+  color:white;
+  padding-top:10em;
+}
+
+/// Typing animation
+
+/* Google Fonts */
+// @import url(http://fonts.googleapis.com/css?family=Anonymous+Pro);
+
+/* Global */
+// html{
+//   min-height: 100%;
+//   overflow: hidden;
+// }
+// body{
+//   height: calc(100vh - 8em);
+//   padding: 4em;
+//   color: rgba(255,255,255,.75);
+//   font-family: 'Anonymous Pro', monospace;  
+//   background-color: rgb(25,25,25);  
+// }
+// .line-1{
+//     position: relative;
+//     top: 50%;  
+//     width: 24em;
+//     margin: 0 auto;
+//     border-right: 2px solid rgba(255,255,255,.75);
+//     font-size: 180%;
+//     text-align: center;
+//     white-space: nowrap;
+//     overflow: hidden;
+//     transform: translateY(-50%);    
+// }
+
