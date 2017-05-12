@@ -36,6 +36,7 @@ gems:
   - jemoji
 jsarr:
      - scripts/typing.js
+     - scripts/pace.js
 
 # defaults:
 #   -

@@ -7,6 +7,11 @@
 		<script type="text/javascript"
 		    src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 		</script>
+    {% for js in site.jsarr %}
+       <script type="text/javascript">
+        {% include {{ js }} %}
+       </script>
+    {% endfor %}
 	</head>
 	<body>
     <div class="nav-box">
