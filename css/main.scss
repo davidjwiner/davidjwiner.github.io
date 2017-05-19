@@ -111,6 +111,12 @@ img[alt="Me"] {
     max-width: 250px;
 }
 
+iframe{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 img[alt="cannondale"] {
     max-width: 400px;
 }
@@ -232,6 +238,7 @@ div.borderXwidth a:not(.active):hover:before, div.borderXwidth a:not(.active):ho
     font-weight: bold;
     font-size: $h2-font-size;
     list-style: none;
+    margin-bottom: 1em;
 }
 .separator {
     width: 100%;
@@ -263,4 +270,13 @@ div.borderXwidth a:not(.active):hover:before, div.borderXwidth a:not(.active):ho
   right: 100%;
   width: 100%;
   height: 2px;
+}
+
+/// Post images
+.inline-image {
+  max-width: 70%;
+}
+
+.big-inline-image {
+  max-width: 90%;
 }
