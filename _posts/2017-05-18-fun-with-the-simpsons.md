@@ -18,7 +18,7 @@ If you're an avid reader of this blog, you might be aware that I have been on a 
 <img class='inline-image' src='/assets/simpsons/total_lines_by_character.png'/>
 <p class="caption">Homer domination</p>
 
-* The average number of viewers declined pretty substantially as the seasons went on...:sad_face:
+* The average number of viewers declined pretty substantially as the seasons went on...😞
 
 <img class='inline-image' src='/assets/simpsons/viewers_by_season.png'/>
 <p class="caption">Not all viewers were quite so loyal</p>
