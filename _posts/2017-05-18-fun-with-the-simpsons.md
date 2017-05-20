@@ -6,7 +6,7 @@ date:   2017-05-17 10:44:57 -0700
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SR8WWFzrZAg" frameborder="0" allowfullscreen></iframe>
 
-Growing up, The Simpsons was my favorite show. Friends was a close second and the radically age-inappropriate Maury reruns my sister and I watched when we got home from school comprised a distant third. There is a delightful little book out there called [_The Simpsons: A Complete Guide to Our Favorite Family_](https://www.amazon.com/Simpsons-Complete-Guide-Favorite-Family/dp/0060952520), which provides more detail than anyone would want on every episode from seasons 1-8. (NB: Ask any Simpsons true believer and s/he will confirm that these episodes were by far the finest of the series.) I somehow persuaded my parents to buy this book for me when I was 10 and subsequently read it from cover to cover, in spite of the fact that all of the information contained in it could be gleaned from owning every DVD and watching every episode multiple times---which I of course did, too.
+Growing up, The Simpsons was my favorite television show. Friends was a close second and the radically age-inappropriate Maury reruns my sister and I watched when we got home from school comprised a distant third. There is a delightful compact book out there called [_The Simpsons: A Complete Guide to Our Favorite Family_](https://www.amazon.com/Simpsons-Complete-Guide-Favorite-Family/dp/0060952520), which provides more detail than anyone would want on every episode from seasons 1-8. (NB: Ask any Simpsons true believer and s/he will confirm that these episodes were by far the finest of the series.) I somehow persuaded my parents to buy this book for me when I was 10 and subsequently read it from cover to cover, in spite of the fact that all of the information contained in it could be gleaned from owning every DVD and watching every episode multiple times---which I of course did, too.
 
 Fast forward 15 years: I discovered this spring that a kind soul uploaded a [massive data dump](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data) of 600 Simpsons episodes (episode names, characters, and _every damn line from all 600 scripts_) to Kaggle. Needless to say, I got pretty excited. <!--more--> 
 
@@ -23,7 +23,7 @@ If you're an avid reader of this blog, you might be aware that I have been on a 
 <img class='inline-image' src='/assets/simpsons/viewers_by_season.png'/>
 <p class="caption">Not all viewers were quite so loyal</p>
 
-* Trying to predict an episode's IMDB score based on how much each character speaks in that episode does not work. I was surprised by this result because, honestly, who actually likes Patty and Selma?
+* Trying to predict an episode's IMDB score based on how much each character speaks in that episode does not work. I was surprised by this result because, honestly, who actually likes Krusty the Clown?
 
 ## Predicting whether lines were Lisa's or Bart's (code and replication data [here](https://github.com/davidjwiner/simpsons_analysis/blob/master/simpsons_analysis.ipynb))
 
