@@ -6,18 +6,15 @@ permalink: /about
 
 ![Me](/assets/David.jpg)
 
-My name is **David**, and I'm a Masters student studying Electrical Engineering and Computer Science at UC Berkeley. My Masters research centers on natural language processing applied to intellectual property and US patent data.
+My name is **David**, and I'm a first-year MBA student at Stanford.
 
-Prior to coming to Berkeley, I worked in management consulting at [**Bain**](http://bain.com/) and in product at [**Zearn**](https://www.zearn.org/). I studied Applied Math at Brown for undergrad.
+Prior to coming to Stanford, I worked in management consulting at [**Bain**](http://bain.com/), product at [**Zearn**](https://www.zearn.org/), and data science at [**Pure Storage**](http://www.purestorage.com/). I studied Applied Math at Brown for undergrad and did my Masters in Electrical Engineering and Computer Science at UC Berkeley, where I worked on developing machine learning algorithms for patent analysis.
 
-My interests have shifted a lot over the last few years---there is often more I would like to learn about or work on than I have time to---but here are some of the things that I have found myself thinking about a lot recently:
+My interests have shifted a lot over the last few years, but here are some of the things that I have found myself thinking about recently:
 
 - Machine learning and AI
-- The gig economy
+- The gig economy and how it impacts financial inclusion
 - K-12 math education
-- Databases
-- Intellectual property and patent invalidation
-- Enterpreneurship
 - Vegetarian cooking
 - Statistics
 - US politics
