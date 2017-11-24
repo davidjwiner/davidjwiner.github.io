@@ -16,12 +16,10 @@ If you're an avid reader of this blog, you might be aware that I have been on a 
 * The character with the most lines by nearly a factor of two was Homer. Marge, Lisa, and Bart trade off on second place depending on the season:
 
 <img class='inline-image' src='/assets/simpsons/total_lines_by_character.png'/>
-<p class="caption">Homer domination</p>
 
 * The show's viewership declined pretty rapidly as the seasons went on 😞:
 
 <img class='inline-image' src='/assets/simpsons/viewers_by_season.png'/>
-<p class="caption">Not all viewers were quite so loyal</p>
 
 * Trying to predict an episode's IMDB score based on how much each character speaks in that episode does not work. I was surprised by this result because, honestly, who actually likes Krusty the Clown?
 
