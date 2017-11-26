@@ -14,7 +14,7 @@ Suppose that the sales for that particular server are growing 50% month over mon
 
 This effect would be marginal for mature companies but it is hugely impactful on the aggregate reliability numbers for small and rapidly growing companies. The chart below shows how this effect plays out over an 8 month period under three different growth rate assumptions (1.5x, 2x, and 4x month-over-month).
 
-<img class='big-inline-image' src='/assets/availability/device_availability.png'/>
+<img class='inline-chart' src='/assets/availability/device_availability.png'/>
 <p class="caption">Each bar represents the perceived availability for a given monthly growth rate (0x, 1.5x, 2x, and 4x). The <b>true availability</b> for that device is 99%, but the perceived availability is higher than that due to the fact that new devices are not truly being used.</p>
 
 For a company with 4x month-on-month growth (I know, that is on the high end), the actually availability looks very close to 99.9%. By contrast, if there were no growth---and no newly bought devices were sitting on a rack accumulating availability time immediately after purchase without actually running anything---the aggregate availability would look closer to 99%. This 99% number is the "true availability," what we generally would see from an equivalent incumbent player. 
