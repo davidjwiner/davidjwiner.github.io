@@ -6,9 +6,9 @@ date:   2017-11-22 10:44:57 -0700
 
 <img class='small-inline-image' src='/assets/ch-ch-changes/gsb.jpg'/>
 
-Hey dear readers, a couple of updates. First, I finished up my data science gig at Pure over the summer and started this fall as an MBA student at Stanford. We're on the quarter system here, and the first quarter (of six) is actually almost done, which means that I have read nearly one sixth of *How to Make Friends and Influence People*. <!--more-->
+Hey dear readers, a couple of updates. First, I finished up my data science gig at Pure over the summer and started this fall as an MBA student at Stanford. We're on the quarter system here, and the first quarter (of six) is actually almost done, which means that I can tell you more than you ever wanted to know about revenue recognition 🤓 (but little about anything else).
 
-Second, I decided that it was high time to get started with a project I've been meaining to put together for at least the last six months: **my ice cream map**. The current version has nine of my favorite scoop shops from around the country. Frankly, I was hoping for 10 shops since 10 is a nice, round number. Alas, I could not think of another one that was quite on the same level as these nine, and I didn't want to force it.
+Second, I decided that it was high time to get started with a project I've been meaining to put together for at least the last six months: **my ice cream map**. The current version has nine of my favorite scoop shops from around the country. Frankly, I was hoping for 10 shops since 10 is a nice, round number. Alas, I could not think of another one that was quite on the same level as these nine, and I didn't want to force it. <!--more-->
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1LFThFkpfbs1kYSGfQ2TCXa7L1S8&hl=en" width="640" height="480"></iframe>
 

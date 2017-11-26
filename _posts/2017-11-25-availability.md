@@ -4,11 +4,14 @@ title:  "The internet of things is less reliable than we think"
 date:   2017-11-25 10:44:57 -0700
 ---
 
+<img class='small-inline-image' src='/assets/availability/nersc.jpg'/>
+<p class="caption">Servers at Lawrence Berkeley National Lab, home of Cori (the 6th fastest supercomputer in the world)</p>
+
 The last five years has seen a huge proliferation of internet-connected devices. This trend is pithily referred to as the "internet of things" (IoT). There are plenty of new appliances on the consumer side, but increasingly large enterprises power their data centers with dozens if not hundreds of little devices that monitor and optimize everything from computation to networking to data storage.
 
-These devices are increasingly produced by tiny startups that have been growing like gangbusters. In general, startups are at a disadvantage compared to their incumbent competitors: they do not have as much capital to invest in development, they have a harder time attracting talent, they are not as well known, and they do not have the same sales relationships that established companies do. But I do think that B2B IoT startups actually have one major advantaged compared to large players: if a startup is growing fast enough, its products will *appear* to have much better availability than they actually do. <!--more-->
+These devices are increasingly produced by tiny startups that have been growing like gangbusters. In general, startups are at a disadvantage compared to their incumbent competitors: they do not have as much capital to invest in development, they have a harder time attracting talent, they are not as well known, and they do not have the same sales relationships that established companies do. But I do think that B2B IoT startups actually have one major advantaged compared to large players: if a startup is growing fast enough, its products will *appear* to have much better availability than they actually do.
 
-Consider a company selling a server that is availabile 99% of the time. In other words, in a given year of 365 days it is only down for $$0.01 \times 365 = 3.65$$ days. (Note that this is actually terrible performance in the enterprise computing world---imagine your whole company having to go without access to its Outlook server for nearly 4 days a year!)
+Consider a company selling a server that is availabile 99% of the time. In other words, in a given year of 365 days it is only down for $$0.01 \times 365 = 3.65$$ days. (Note that this is actually terrible performance in the enterprise computing world---imagine your whole company having to go without access to its Outlook server for nearly 4 days a year!) <!--more-->
 
 Suppose that the sales for that particular server are growing 50% month over month. And now here comes the most important part: **for nearly the first month after the device has been sold, it is probably booted up on a rack somewhere but not really running anything** (e.g., for our device, we haven't yet configured Outlook on it or linked it to any storage). This is great for the startup since it gets to count this initial month as time when the device is fully available even though there's basically zero chance the the device has any issues/downtime during this period.
 
