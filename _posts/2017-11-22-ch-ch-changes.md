@@ -14,7 +14,7 @@ Second, I decided that it was high time to get started with a project I've been 
 
 The locations are not explicitly ranked on the map, but it's crucial to note that **not all ice cream is created equal**. Far and away my favorite ice cream place in the country is [**Jeni's Splendid Ice Creams**](https://jenis.com/scoop-shops/12-south/). It's actually a chain that is based in Columbus, OH, but I tried one their Nashville locations where I snapped a photo of their Brambleberry Crisp flavor.  It was astonishingly tasty. Incredibly smooth, just the right amount of tart flavor, and served with a delightful wafer cookie on the side. 
 
-<img class='small-inline-image' src='/assets/ch-ch-changes/jenis.png'/>
+<img class='small-inline-image' src='/assets/ch-ch-changes/jenis.jpg'/>
 <p class="caption">Brambleberry Crisp from Jeni's</p>
 
 Lastly, I feel the need to preempt some criticism from my other frozen dessert-loving fans. This is not an equal opportunity ice cream map. I have nothing against frozen yogurt or vegan desserts. Frankly, I am an enormous fan of [FoMu](http://www.fomuicecream.com/), a punny ("faux moo") vegan dessert shop in Boston's South End neighborhood. The frozen desserts there are generally coconut based. It's a different category of dessert, though, and I felt it would be unfair to compare to the real deal. Hence we're going to be purists in this map.
