@@ -13,7 +13,7 @@ Prior to coming to Stanford, I worked in management consulting at [**Bain**](htt
 My interests have shifted a lot over the last few years, but here are some of the things that I have found myself thinking about recently:
 
 - Machine learning and AI
-- The gig economy and how it impacts financial inclusion
+- Financial inclusion and tools for small business owners
 - K-12 math education
 - Vegetarian cooking
 - Statistics
