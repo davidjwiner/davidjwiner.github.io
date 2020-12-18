@@ -1,16 +1,9 @@
 ---
 layout: default
-title: Home
+title: About
 permalink: /
 ---
 
-<div class="hero-photo">
-	 <a href="" class="typewrite intro-text" data-period="500" data-type='["Ice cream connoisseur",
-	 																	   "San Franciscan",
-	 																	   "Product manager",
-	 																	   "Nanoinfluencer",
-	 																	   "Optimist",
-	 																	   "Internet troll"]'>
-    	<span class="wrap"></span>
-  	</a>
-</div>
+![Me](/assets/David.jpg)
+
+Hi, I'm David. I live in San Francisco and work at Google as a Product Manager on Kotlin and Android.
