@@ -24,6 +24,23 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-med-light: lighten($grey-color, 20%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+//** Padding for `<th>`s and `<td>`s.
+$table-cell-padding:            8px !default;
+//** Padding for cells in `.table-condensed`.
+$table-condensed-cell-padding:  5px !default;
+
+//** Default background color used for all tables.
+$table-bg:                      transparent !default;
+//** Background color used for `.table-striped`.
+$table-bg-accent:               #f9f9f9 !default;
+//** Background color used for `.table-hover`.
+$table-bg-hover:                #f5f5f5 !default;
+$table-bg-active:               $table-bg-hover !default;
+
+//** Border color for table and cell borders.
+$table-border-color:            #ddd !default;
+
+
 // Width of the content area
 $content-width:    800px;
 
@@ -31,15 +48,6 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 // Standard text variables
-
-// Minima also includes a mixin for defining media queries.
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 
 body {
     margin: 60px auto;
@@ -288,3 +296,82 @@ div.borderXwidth a:not(.active):hover:before, div.borderXwidth a:not(.active):ho
 .inline-chart {
   max-width: 30em;
 }
+
+//
+// Tables
+// --------------------------------------------------
+
+table {
+    background-color: $table-bg;
+  
+    // Table cell sizing
+    //
+    // Reset default table behavior
+  
+    col[class*="col-"] {
+      position: static; // Prevent border hiding in Firefox and IE9-11 (see https://github.com/twbs/bootstrap/issues/11623)
+      display: table-column;
+      float: none;
+    }
+  
+    td,
+    th {
+      &[class*="col-"] {
+        position: static; // Prevent border hiding in Firefox and IE9-11 (see https://github.com/twbs/bootstrap/issues/11623)
+        display: table-cell;
+        float: none;
+      }
+    }
+  }
+  
+  caption {
+    padding-top: $table-cell-padding;
+    padding-bottom: $table-cell-padding;
+    text-align: left;
+  }
+  
+  th {
+    text-align: left;
+  }
+  
+  
+  // Baseline styles
+  
+  table {
+    width: 100%;
+    max-width: 100%;
+    // margin-bottom: $line-height-computed;
+    // Cells
+    > thead,
+    > tbody,
+    > tfoot {
+      > tr {
+        > th,
+        > td {
+          padding: $table-cell-padding;
+          vertical-align: top;
+          border-top: 1px solid $table-border-color;
+        }
+      }
+    }
+    // Bottom align for column headings
+    > thead > tr > th {
+      vertical-align: bottom;
+    }
+    // Remove top border from thead by default
+    > caption + thead,
+    > colgroup + thead,
+    > thead:first-child {
+      > tr:first-child {
+        > th,
+        > td {
+          border-top: 0;
+        }
+      }
+    }
+    // Account for multiple tbody instances
+    > tbody + tbody {
+      border-top: 2px solid $table-border-color;
+    }
+
+  }

@@ -1,0 +1,34 @@
+---
+layout: posts
+title:  "2020 book list"
+date:   2020-12-18 10:44:57 -0700
+---
+
+In 2020, I read more books than I have in one year since I was in college. Perhaps the one silver lining of Covid-19 lockdowns. For the first time ever, I decided to make a list of my books from the year along with some ratings and notes.
+<!--more-->
+
+|  **Title** | **Author** | **Rating** | **Notes** |
+| --- | --- | --- | --- |
+|  The Great Believers | Rebecca Makkai | ⭐⭐⭐⭐⭐ | I read this book before Covid-19 took hold in the US, but it continues to make me feel lucky to be living in 2020.|
+|  The Uninhabitable Earth | David Wallace-Wells | ⭐⭐⭐⭐⭐ |  |
+|  Uncanny Valley | Anna Wiener | ⭐⭐⭐⭐ | Inside beltway but so fun. If you work in technology, you must read this book. |
+|  The Topeka School | Ben Lerner | ⭐⭐⭐⭐ |  |
+|  The Glass Hotel | Emily St. John Mandel | ⭐⭐⭐⭐ |  |
+|  The Years of Lyndon Johnson: Path to Power | Robert Caro | ⭐⭐⭐⭐ | The first two books in this marathon series made me hate Lyndon Johnson but love America — and Robert Caro. |
+|  The Years of Lyndon Johnson: Means of Ascent | Robert Caro | ⭐⭐⭐⭐ |  |
+|  The Three-Body Problem | Liu Cixin | ⭐⭐⭐⭐ | The last 150 pages of this book took it from two to four stars. It is very slow to start but left me thinking for a long time after I finished about the universe and, well, aliens. |
+|  The Alchemist | Paulo Coelho | ⭐⭐⭐⭐ |  |
+|  A Promised Land | Barack Obama | ⭐⭐⭐⭐ | I found the practiced modesty to be grating at times but otherwise a fascinating story of Obama's life, 2008 campaign, and first term. |
+|  White Fragility | Robin DiAngelo | ⭐⭐⭐ | I gasped at various points throughout this book. It made me feel uncomfortable and was tough to read at times, but I guess that's the point. |
+|  Antisocial | Andrew Marantz | ⭐⭐⭐ | Raised a lot of questions for me about the value and hidden costs of free speech. |
+|  On Earth We're Briefly Gorgeous | Ocean Vuong | ⭐⭐⭐ |  |
+|  Catch and Kill | Ronan Farrow | ⭐⭐⭐ | The audiobook version of this was hilarious. Ronan Farrow fully commits to some very thick fake accents when quoting the Ukrainian and Italian characters he interviews for the book. |
+|  Swimming in the Dark | Tomasz Jedrowski | ⭐⭐⭐ |  |
+|  Never Let Me Go | Kazuo Ishiguro | ⭐⭐⭐ |  |
+|  Hidden Valley Road | Robert Kolker | ⭐⭐⭐ |  |
+|  Red, White & Royal Blue | Casey McQuiston | ⭐⭐ |  |
+|  On Tyranny | Timothy D. Snyder | ⭐⭐ |  |
+|  Rage | Bob Woodward | ⭐⭐ | Did we really need another Trump book from Bob Woodward? |
+|  Twilight of Democracy | Anne Applebaum | ⭐⭐ |  |
+|  Normal People | Sally Rooney | ⭐ | I've heard the TV show is great, but I hated this book. |
+|  The Velvet Rope Economy | Nelson D. Schwartz | ⭐ | Got old pretty quick. TL;DR being rich in 2020 is great because you can cut the line basically everywhere. |
