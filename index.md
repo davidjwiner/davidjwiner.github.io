@@ -6,4 +6,4 @@ permalink: /
 
 ![Me](/assets/David.jpg)
 
-Hi, I'm David. I live in San Francisco and work at Google as a Product Manager on Kotlin and Android.
+Hi, I'm David. I live in San Francisco and am the cofounder of [Ciro](https://www.ciro.io), an SMB search engine for sales team.
