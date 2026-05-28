@@ -1,0 +1,292 @@
+:root {
+  --background: #fbfaf7;
+  --text: #1f2428;
+  --muted: #687076;
+  --soft: #e6e1d8;
+  --accent: #2f6f73;
+  --link: #2f5f73;
+  --callout: #eef6f8;
+  --max-width: 720px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--background);
+}
+
+body {
+  margin: 0;
+  color: var(--text);
+  background: var(--background);
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 17px;
+  line-height: 1.65;
+}
+
+a {
+  color: var(--link);
+  text-decoration: underline;
+  text-decoration-color: rgb(48 92 122 / 25%);
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  color: var(--accent);
+  text-decoration-color: rgb(140 21 21 / 35%);
+}
+
+.page-shell {
+  width: min(calc(100% - 48px), var(--max-width));
+  margin: 56px auto;
+}
+
+.site-nav {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+  margin-bottom: 72px;
+}
+
+.site-nav a {
+  color: var(--muted);
+  font-size: 0.92rem;
+  font-weight: 650;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+h1 {
+  max-width: 680px;
+  margin: 0 0 18px;
+  font-size: 2.5rem;
+  line-height: 1.08;
+  letter-spacing: 0;
+}
+
+h2 {
+  margin-top: 32px;
+  font-size: 1.28rem;
+}
+
+h3 {
+  font-size: 1rem;
+}
+
+p {
+  color: #30363a;
+  line-height: 1.65;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+iframe {
+  display: block;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+  font-size: 0.95rem;
+}
+
+th,
+td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  vertical-align: top;
+}
+
+tr:nth-child(even) {
+  background: #f9f9f9;
+}
+
+.home {
+  max-width: 690px;
+}
+
+.eyebrow {
+  margin: 0 0 12px;
+  color: var(--accent);
+  font-size: 0.86rem;
+  font-weight: 700;
+}
+
+.intro {
+  max-width: 640px;
+  margin-top: 28px;
+}
+
+.intro p {
+  margin: 0 0 18px;
+  font-size: 1.06rem;
+}
+
+.home-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 34px;
+}
+
+.home-links a {
+  padding: 8px 0;
+  color: var(--text);
+  font-weight: 650;
+  text-decoration-color: rgb(31 36 40 / 20%);
+}
+
+.post-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.post-list-item {
+  padding: 0 0 30px;
+  margin-bottom: 26px;
+  border-bottom: 1px solid var(--soft);
+}
+
+.post-list-item:last-child {
+  border-bottom: 0;
+}
+
+.post-list-heading {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: baseline;
+  margin-bottom: 8px;
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.post-date,
+.post-meta {
+  color: var(--muted);
+}
+
+.post-title-link {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.post-content {
+  margin-top: 24px;
+}
+
+.post-excerpt p {
+  margin: 0 0 10px;
+}
+
+.post-excerpt .katex-display {
+  margin: 12px 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.post-excerpt img,
+.post-excerpt iframe,
+.post-excerpt .caption {
+  display: none;
+}
+
+.post-content .caption,
+p.caption {
+  color: #555;
+  font-style: italic;
+  text-align: center;
+}
+
+.post-content .inline-image,
+.post-content img[alt="cannondale"] {
+  max-width: 520px;
+}
+
+.post-content .small-inline-image {
+  max-width: 420px;
+}
+
+.post-content .big-inline-image {
+  max-width: 100%;
+}
+
+.post-content .inline-chart {
+  max-width: 640px;
+}
+
+.post-content .scenario {
+  padding: 0.25rem 1rem;
+  background: var(--callout);
+  border: 1px solid #999;
+  box-shadow: 0.1em 0.1em 5px 1px rgb(0 0 0 / 18%);
+}
+
+.post-content .sc {
+  font-variant: small-caps;
+}
+
+.read-more {
+  display: inline-block;
+  margin-top: 6px;
+}
+
+.site-footer {
+  padding-top: 18px;
+  margin-top: 72px;
+  border-top: 1px solid var(--soft);
+}
+
+.social-links {
+  display: flex;
+  gap: 18px;
+  padding: 0;
+  margin: 0;
+  font-size: 0.9rem;
+  font-weight: 700;
+  list-style: none;
+}
+
+.resume-frame {
+  width: 100%;
+  height: 1100px;
+  border: 0;
+}
+
+@media (max-width: 720px) {
+  .page-shell {
+    width: min(calc(100% - 32px), var(--max-width));
+    margin: 28px auto;
+  }
+
+  .site-nav {
+    margin-bottom: 44px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  .post-list-heading {
+    display: block;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: normal;
+  }
+}

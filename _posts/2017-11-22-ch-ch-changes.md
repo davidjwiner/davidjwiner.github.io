@@ -2,6 +2,7 @@
 layout: posts
 title:  "Ch-ch-changes and an ice cream map"
 date:   2017-11-22 10:44:57 -0700
+listed: false
 ---
 
 <img class='small-inline-image' src='/assets/ch-ch-changes/gsb.jpg'/>
