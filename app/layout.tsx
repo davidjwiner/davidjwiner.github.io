@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { Analytics } from '@vercel/analytics/next';
 import 'katex/dist/katex.min.css';
 import './globals.css';
 
@@ -29,6 +30,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           <main>{children}</main>
           <Footer />
         </div>
+        <Analytics />
       </body>
     </html>
   );
