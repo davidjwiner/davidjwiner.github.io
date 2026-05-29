@@ -27,7 +27,7 @@ export default function Home() {
         </section>
 
         <section>
-          <h3>Side projects</h3>
+          <h3>Projects</h3>
           <ul>
             <li>
               <a href="https://www.zeitgeisthq.com/">Zeitgeist</a>
