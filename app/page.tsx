@@ -10,8 +10,7 @@ export default function Home() {
           I&apos;m the cofounder and CTO of <a href="https://www.ciro.io">Ciro</a> (YC S22), an AI agent for B2B sales teams. Before that, I worked on the Kotlin programming language at Google and studied CS at Berkeley and business at Stanford.
         </p>
         <p>
-          This site is a small archive of projects, essays, notes on startups, machine learning,
-          vegetarian food, books, and the odd internet rabbit hole.
+          This site is a small archive of projects and essays on startups, vegetarian food, technology, books, and the odd internet rabbit hole.
         </p>
       </div>
 
